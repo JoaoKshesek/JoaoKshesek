@@ -6,6 +6,17 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoaoKshesek&show_icons=true&count_private=true&hide_border=true&title_color=4cbad3&icon_color=4cbad3&text_color=c9d1d9&bg_color=0d1117" alt="Joao Kshesek github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKshesek&layout=compact&hide_border=true&title_color=4cbad3&text_color=4cbad3&bg_color=0d1117" />
 </div>
+
+ <div align="center">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
+</div>
  
 ![Snake animation](https://github.com/JoaoKshesek/JoaoKshesek/blob/output/github-contribution-grid-snake.svg)
 
