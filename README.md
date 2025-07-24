@@ -1,14 +1,13 @@
-<h1 align="left">👾 Hi, there!</h1>
+# 👾 Hi, there!
 
-###
+### I'm João Valter, a Software Engineer from Curitiba - Brazil
 
-<h3 align="left">I'm João Valter, a Software Engineer from Curitiba, Brazil</h3>
+* 💻 I’ve worked across diverse industries — from financial systems to e-commerce and delivery services.
+* 🎹 I’m a rock lover at heart, but I actually play classical piano.
+* 🥊 Boxing is part of who I am — it taught me to never back down.
+* 😼 My cat is called is Mulan because he tricked me, just like in the movie.</p>
 
-###
-
-<p align="left">💻 I’ve worked across diverse industries — from financial systems to e-commerce and delivery services.<br>🎹 I’m a rock lover at heart, but I actually play classical piano.<br>🥊 Boxing is part of who I am — it taught me to never back down.<br>😼 My cat is called is Mulan because he tricked me, just like in the movie.</p>
-
-###
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoKshesek/JoaoKshesek/output/pacman-contribution-graph-dark.svg">
@@ -16,11 +15,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoaoKshesek/JoaoKshesek/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<h2 align="left">Techs that I work with</h2>
-
-###
+## ⚡ Techs that I work with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
@@ -48,11 +43,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
-###
+<br/>
 
-<h2 align="left">Tools that I use</h2>
-
-###
+## 🛠️ Tools that I use
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
@@ -70,21 +63,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-###
+<br/>
 
-<h2 align="left">Get in touch</h2>
+## 💬 Get in touch
 
-###
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-valter-kshesek)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ksk_joao/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoKshesek/)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/joao-valter-kshesek/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="41" height="29" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/ksk_joao/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="41" height="29" alt="instagram logo"  />
-  </a>
-  <a href="mailto:kshesek.tech@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="41" height="29" alt="gmail logo"  />
-  </a>
-</div>
 
