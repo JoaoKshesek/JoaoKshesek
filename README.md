@@ -5,7 +5,7 @@
 * 💻 I’ve worked across diverse industries — from financial systems to e-commerce and delivery services.
 * 🎹 I’m a rock lover at heart, but I actually play classical piano.
 * 🥊 Boxing is part of who I am — it taught me to never back down.
-* 😼 My cat is called is Mulan because he tricked me, just like in the movie.</p>
+* 😼 My cat is called Mulan because he tricked me, just like in the movie.</p>
 
 <br/>
 
